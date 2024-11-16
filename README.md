@@ -16,23 +16,7 @@ This project involves data exploration, transformation, database integration, an
 
 ---
 
-## Directory Structure  
 
-Land_Revenue_Analysis/
-├─ scripts/
-│  ├─ data_cleaning.py
-│  ├─ mysql_integration.py
-├─ reports/
-│  ├─ dashboard.pbix
-│  ├─ data_analysis_report.pdf
-├─ data/
-│  ├─ pyproject.csv
-│  ├─ transformed_data.sql
-├─ README.md
-├─ requirements.txt
-
-
----
 
 ## Features  
 This project offers the following capabilities:  
