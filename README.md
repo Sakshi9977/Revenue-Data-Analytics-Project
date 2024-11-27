@@ -1,5 +1,9 @@
 # Revenue Analysis Dashboard  
 
+<img src="https://github.com/Sakshi9977/Revenue-Data-Analytics-Project/blob/f9fc45b7c40532908c1de3103f4dd943f680363b/Revenu%20project%20logo.jpg" alt="Revenue Data Analytics Project Logo" width="200">
+
+
+
 ## Introduction  
 This project is an interactive dashboard designed to visualize and analyze land revenue data across various U.S. states and counties. The dashboard helps users explore trends in revenues generated from land leases, commodities, and products. It provides insights through metrics such as total revenues, revenue types, and the contribution of commodities.  
 
