@@ -10,7 +10,7 @@ This project is an interactive dashboard designed to visualize and analyze land 
 ---
 
 ## Project Type  
- Data Analysis and Dashboarding connecting with MySQL  
+ Data Analysis and Dashboard connecting with MySQL  
 
 This project involves data exploration, transformation, database integration, and dashboard creation using the following tools:  
 - Python (Pandas): For data cleaning and transformation.  
