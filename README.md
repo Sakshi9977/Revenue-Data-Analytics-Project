@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-## Key Dates and Activities  
+## Key Dates and Activities done 
 
 - 12st November 2024:
    - Planning and Understanding the data
